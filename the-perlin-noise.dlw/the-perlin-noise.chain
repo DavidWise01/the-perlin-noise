@@ -1,0 +1,9 @@
+ROOT0-DLW-CHAIN-v1
+index : 1936
+slug  : the-perlin-noise
+seal  : a6b7b2a932c67a563b877fc22fd1199ce043dfd25c77a4d3e3b621040f8e145f
+prev  : 2893a850e7fa16bdd15795af206f08071dc5ee18ebd8a2d3df805a73bfd1226e
+link  : 4d6fa2427d93d5dd5f8bf1d0bb3ceccb4f19eb4dc019d0f0d0a25d330a5d025a
+head  : 701a10d6685528322c1a86429333bf38dd7bc0c52a1402c9e64e1a03ed090266
+
+— the tether: link = sha256(index|slug|seal|prev). the chain head commits to the whole corpus.
